@@ -39,7 +39,7 @@ namespace PonyDancer
         MMDevice defaultDevice;
         private DancingPony pForm;
 
-        private bool debug = true;
+        private bool debug = false;
 
         private Process hangOnWindowProcess = null;
 
